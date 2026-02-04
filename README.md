@@ -58,7 +58,7 @@
 
 ### 📊 My Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmolsinghtomar&show_icons=true&theme=radical" alt="Anmol's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anmolsinghtomar&show_icons=true&theme=radical" alt="Anmol's Github Stats" />
 </p>
 
 ### 📫 Connect with me
